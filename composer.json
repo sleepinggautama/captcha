@@ -1,5 +1,5 @@
 {
-	"name": "sleepinggautama/captcha",
+	"name": "mews/captcha",
 	"type": "package",
 	"description": "Laravel 5/6/7/8/9/10 Captcha Package",
 	"keywords": [
@@ -17,7 +17,7 @@
 		"laravel10 Security",
 		"Captcha"
 	],
-	"homepage": "https://github.com/sleepinggautama/captcha",
+	"homepage": "https://github.com/mewebstudio/captcha",
 	"license": "MIT",
 	"authors": [
 		{
@@ -25,11 +25,6 @@
 			"email": "me@mewebstudio.com",
 			"homepage": "https://github.com/mewebstudio",
 			"role": "Developer"
-		},
-		{
-			"name": "sleepinggautama",
-			"homepage": "https://github.com/sleepinggautama",
-			"role": "Forker"
 		}
 	],
 	"require": {
